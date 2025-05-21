@@ -6,7 +6,7 @@ This project aims to utilize this kaggle dataset (https://www.kaggle.com/dataset
 
 ## Division of Labor
 Alex: data preprocessing, augmentation, and baselines
-Kevin: model architecture
+Kevin: model architecture and visualization
 Ning: cloud training
 
 ## Instructions
